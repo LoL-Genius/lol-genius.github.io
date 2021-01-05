@@ -4,6 +4,9 @@ Subtext
 ## Repo Info
 Subtext
 
+## LoL Genius Website
+https://karlroush.github.io/lol_genius/
+
 ## Website template info
 Built from [Start Bootstrap - Landing Page](https://startbootstrap.com/theme/landing-page/)
 [Landing Page](https://startbootstrap.com/theme/landing-page/), a multipurpose landing page template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
