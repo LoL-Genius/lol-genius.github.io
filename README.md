@@ -5,7 +5,7 @@ Subtext
 Subtext
 
 ## LoL Genius Website
-https://karlroush.github.io/lol_genius/
+https://lol-genius.github.io/
 
 ## Website template info
 Built from [Start Bootstrap - Landing Page](https://startbootstrap.com/theme/landing-page/)
