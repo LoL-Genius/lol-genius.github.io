@@ -1,0 +1,17 @@
+Product name= LoL Genius
+
+
+Product Description=
+I want to make analysis easier for players. Not everyone has the technical capability to get the stats they want using the Riot API (e.g., CS difference at 10minute intervals)- LoL Genius is a product designed to bridge the gap between players & the Riot Games API.
+
+Specifically, the player indicates what stats they want, but I also generate derivative stats like damage per gold. While part of the deliverable is analysis of those stats, I also provide players with the raw data should they want to examine it.
+
+Currently, I have specified three product tiers from just the data (free) to detailed analysis (price TBD).
+
+The APIs we are using are Summoner (to get match histories), Match (to get match stats), and League (to get the challenger ranked players to compare stats).
+
+The website is located at https://lol-genius.github.io/ which is owned by the GitHub organization "LoL Genius" located at https://github.com/LoL-Genius
+
+
+Product Group= 417 DevOps
+Product URL=  https://lol-genius.github.io/ 
